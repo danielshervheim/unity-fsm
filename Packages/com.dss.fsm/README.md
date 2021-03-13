@@ -4,7 +4,7 @@ This is just a fork of thefuntastic's [Unity3d-Finite-State-Machine](https://git
 
 I updated it to support recent Unity versions by removing the outdaded unit test framework, and by hosting it on NPM.
 
-Please see the [readme](Packages/com.dss.fsm/README-original.md) in the package directory for information on how to use it.
+Please see the [readme](README-original.md) in the package directory for information on how to use it.
 
 ## How To Install
 

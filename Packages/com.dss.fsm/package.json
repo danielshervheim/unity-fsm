@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Daniel Shervheim",
+    "email": "danielshervheim@gmail.com",
+    "url": "https://www.danielshervheim.com/"
+  },
+  "description": "A simple and extensible finite state machine.",
+  "displayName": "Finite State Machine",
+  "keywords": [
+    "unity",
+    "controller",
+    "finite state machine",
+    "fsm"
+  ],
+  "license": "MIT",
+  "name": "com.dss.fsm",
+  "repository": "github:danielshervheim/unity-fsm",
+  "unity": "2017.1",
+  "version": "1.0.0",
+  "hideInEditor": false
+}
